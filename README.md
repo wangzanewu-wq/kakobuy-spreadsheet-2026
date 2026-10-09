@@ -1,92 +1,69 @@
-# Kakobuy Spreadsheet 2026 — Community Finds with QC Photos
+# Kakobuy Spreadsheet 2026 — Finds with QC Photos & One-Click Kakobuy Links
 
-A community-maintained collection of **5,000+ verified Kakobuy finds** — shoes, hoodies, tees, jackets, pants, bags, accessories, watches and more. Every link is a direct Weidian/1688 product link, QC-checked, and refreshed **every week**.
+A community-maintained collection of Kakobuy finds with QC photos, real USD prices and one-click Kakobuy links — shoes, hoodies, tees, jackets, pants, bags, accessories, watches, jewelry and more.
 
 **Browse the live spreadsheet → https://thekakobuyspreadsheet.com/**
 
 ## What is the Kakobuy Spreadsheet?
 
-The Kakobuy Spreadsheet is a curated list of verified Weidian product links built for Kakobuy agent shopping. Instead of scrolling endless Reddit threads, you get a searchable, category-sorted collection with QC photos and sizing notes.
+The Kakobuy Spreadsheet is a curated, searchable database of verified finds built for Kakobuy agent shopping. Instead of scrolling endless Reddit threads or copying Weidian links, you browse product cards with real photos and USD prices, then hit the **Kakobuy Link** button to jump straight to the matching Kakobuy listing — where QC photos and full product details are waiting.
 
-- **5,364+ verified finds** — growing every week
-- **15 categories** — from sneakers to watches
-- **QC photos** on most entries
-- **Sizing notes** for tricky pieces
-- **Direct Weidian links** — copy, paste into Kakobuy, done
+- **5,000+ verified finds** — growing every week
+- **10 core categories** — from sneakers to jewelry
+- **One-click Kakobuy links** — no copy-paste, no Weidian hassle
+- **Real USD prices** — know the cost before you click
+- **Sources: Weidian, Taobao, 1688** — all linked through Kakobuy
+
+## How It Works
+
+1. **Browse or search** the category you want — shoes, hoodies, watches and more.
+2. **Open any product card** to see the item photo and USD price.
+3. **Click the Kakobuy Link button** — you land directly on the matching Kakobuy listing page with QC photos and extra product details.
+
+No copying links, no pasting into Kakobuy's search bar. The spreadsheet does that step for you.
 
 ## Browse by Category
 
-Start with what you actually wear:
+| Category | Verified Finds | Browse |
+|---|---|---|
+| Shoes | 1,559 | https://thekakobuyspreadsheet.com/category/shoes |
+| T-Shirts | 580 | https://thekakobuyspreadsheet.com/category/t-shirts |
+| Hoodies & Sweaters | 550 | https://thekakobuyspreadsheet.com/category/hoodies-sweaters |
+| Jackets | 548 | https://thekakobuyspreadsheet.com/category/jackets |
+| Watches | 496 | https://thekakobuyspreadsheet.com/category/watches |
+| Pants | 378 | https://thekakobuyspreadsheet.com/category/pants |
+| Sets | 343 | https://thekakobuyspreadsheet.com/category/sets |
+| Bags | 279 | https://thekakobuyspreadsheet.com/category/bags |
+| Accessories | 207 | https://thekakobuyspreadsheet.com/category/accessories |
+| Jewelry | 87 | https://thekakobuyspreadsheet.com/category/jewelry |
 
-- **Shoes** — https://thekakobuyspreadsheet.com/category/shoes
-- **Hoodies & Sweaters** — https://thekakobuyspreadsheet.com/category/hoodies-sweaters
-- **T-Shirts** — https://thekakobuyspreadsheet.com/category/t-shirts
-- **Jackets** — https://thekakobuyspreadsheet.com/category/jackets
-- **Pants** — https://thekakobuyspreadsheet.com/category/pants
-- **Sets** — https://thekakobuyspreadsheet.com/category/sets
-- **Bags** — https://thekakobuyspreadsheet.com/category/bags
-- **Accessories** — https://thekakobuyspreadsheet.com/category/accessories
-- **Jewelry** — https://thekakobuyspreadsheet.com/category/jewelry
-- **Watches** — https://thekakobuyspreadsheet.com/category/watches
-- **Headwear** — https://thekakobuyspreadsheet.com/category/headwear
-- **Jerseys** — https://thekakobuyspreadsheet.com/category/jerseys
-- **Perfume** — https://thekakobuyspreadsheet.com/category/fragrances
-- **Underwear** — https://thekakobuyspreadsheet.com/category/underwear
-- **Tech** — https://thekakobuyspreadsheet.com/category/tech
+## Brands on the Spreadsheet
 
-## Browse by Brand
+Finds are indexed by brand as well as category — search any of these directly:
 
-Curated brand pages with the most popular finds:
+Nike · Louis Vuitton · Gucci · Dior · Burberry · Balenciaga · Moncler · Rolex · Adidas · Ralph Lauren · Supreme · BAPE · Chrome Hearts · Jordan · ASICS · Arc'teryx · Acne Studios · Maison Margiela · Stussy
 
-- **Nike** — https://thekakobuyspreadsheet.com/brand/nike
-- **Supreme** — https://thekakobuyspreadsheet.com/brand/supreme
-- **Balenciaga** — https://thekakobuyspreadsheet.com/brand/balenciaga
-- **BAPE** — https://thekakobuyspreadsheet.com/brand/bape
-- **ASICS** — https://thekakobuyspreadsheet.com/brand/asics
-- **DHL** — https://thekakobuyspreadsheet.com/brand/dhl
+Browse by brand: https://thekakobuyspreadsheet.com/brand/supreme · https://thekakobuyspreadsheet.com/brand/nike · https://thekakobuyspreadsheet.com/brand/bape
 
-## How to Use the Spreadsheet
+## Why Kakobuy?
 
-1. **Pick a category or brand** — start with what you actually wear.
-2. **Copy the Weidian link** — every entry has a direct product link.
-3. **Paste it into Kakobuy** — the agent handles size, price and domestic shipping.
-4. **Review the QC photos** — when the item reaches your warehouse, compare QC before shipping.
-5. **Ship with confidence** — pick a line based on your country, weight and budget.
-
-## Why This Spreadsheet in 2026?
-
-- **Updated weekly** — dead links get removed, new finds get added.
-- **QC-first** — listing photos are marketing; QC references are reality.
-- **Sizing notes** — Asian sizing runs 1-2 sizes smaller than US/EU.
-- **Community-driven** — finds come from active Kakobuy and rep community members.
+Kakobuy is an agent buying service for Taobao, Weidian and 1688 — the marketplaces behind most streetwear and designer finds. It handles purchasing, QC photos and international shipping in one place. The Kakobuy Spreadsheet removes the slowest part of that workflow: finding and converting product links.
 
 ## FAQ
 
-**What is a Kakobuy spreadsheet?**
-A curated collection of verified Weidian/Taobao links organized by category, designed to work with the Kakobuy shopping agent. Paste a link and order without browsing stores manually.
+**Do I need to copy Weidian links into Kakobuy?** No. Every find on the spreadsheet has a one-click Kakobuy Link button that opens the matching Kakobuy listing directly.
 
-**Is the Kakobuy Spreadsheet free?**
-Yes, it is completely free. No signup, no paywall, no premium tier.
+**Where do the finds come from?** Weidian, Taobao and 1688 listings, curated and QC-checked through Kakobuy.
 
-**How often is it updated?**
-Every week. New finds are added and dead links are removed on a weekly refresh cycle.
+**Are prices shown in USD?** Yes — every product card shows a real USD price, updated from the source listing.
 
-**Do I need a Kakobuy account to use it?**
-Yes — a free Kakobuy account is needed to paste links, place orders, receive QC photos and ship internationally.
+**Do QC photos show on the spreadsheet?** QC photos and extra product details are shown on the original Kakobuy listing page, reached via the Kakobuy Link button.
 
-**Are the links verified?**
-Yes. Entries are checked for dead links and seller status on a rolling basis; broken links are removed or replaced.
+## Related Content
 
-**Do you have Supreme, Nike or ASICS finds?**
-Yes — brand pages include Nike, Supreme, Balenciaga, BAPE, ASICS and DHL. More brands are added on request.
+- **Kakobuy Finds blog** — guides and category breakdowns: https://kakobuyfinds.blogspot.com/
+- **Kakobuy Spreadsheet on Medium** — https://medium.com/@thekakobuyspreadsheet
 
-**Where can I see QC photos?**
-Most entries include QC photos on the spreadsheet. You can also request additional warehouse QC photos through your Kakobuy account before shipping.
+## License & Disclaimer
 
-## Contribute
-
-Found a great find or a broken link? Open an issue or drop a comment — community requests are prioritized in the weekly update.
-
-## Disclaimer
-
-This is an independent community resource and is not officially affiliated with Kakobuy. Product links point to third-party Weidian/1688 stores.
+The Kakobuy Spreadsheet is an independent resource and is not affiliated with, endorsed by, or connected to Kakobuy. Product listings belong to their respective sellers and marketplaces.
